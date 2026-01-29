@@ -24,6 +24,6 @@ Resultado:
 ✅ Tempo: 5 minutos vs horas de trabalho manual
 ✅ Base pronta para relacionamento no Power BI
 
-Ferramentas: Python | Pandas | RapidFuzz | Jupyter Notebook | Power BI
+Ferramentas para a transformação: Python | Pandas | RapidFuzz | SQL | EXCEL
 
 Próximos passos: Dashboard executivo com análise de penetração nos Top 300! 📊
