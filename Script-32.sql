@@ -12,4 +12,8 @@ LEFT JOIN endereco_cidade ec ON e.id_cidade = ec.id
 LEFT JOIN endereco_estado ee ON ec.id_estado = ee.id
 WHERE c.cod_lista_preco <> 11
 	AND e.created_at = (SELECT MAX(e2.created_at) FROM endereco e2 WHERE e2.id_pessoa = e.id_pessoa)
+<<<<<<< HEAD
 GROUP BY c.cod_cliente
+=======
+GROUP BY c.sap_cod_cliente;
+>>>>>>> 3f0af2e (mudanças para não ferir a LGPD)
