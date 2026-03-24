@@ -3,7 +3,7 @@
 🎯 Desafio Real: Como relacionar 300 varejistas com milhares de CNPJs diferentes?
 
 Contexto:
-Precisava cruzar o ranking Top 300 ABRAS com a base de clientes da minha empresa para análise no Power BI. 
+Precisava cruzar o ranking Top 300 ABRAS com a base de clientes da minha empresa(ifctícia) para análise no Power BI. 
 
 O problema? 🤔
 ❌ Carrefour aparecia com 50+ CNPJs diferentes
@@ -24,7 +24,7 @@ Resultado:
 ✅ Tempo: 5 minutos vs horas de trabalho manual
 ✅ Base pronta para relacionamento no Power BI
 
-Ferramentas para a transformação: Python | Pandas | RapidFuzz | SQL | EXCEL
+Ferramentas para a transformação: Python | Pandas | RapidFuzz | MySQL | EXCEL
 
 Próximos passos: Dashboard executivo com análise de penetração nos Top 300! 📊
 
